@@ -1,0 +1,5 @@
+Como senti a necessidade de testar se os métodos da classe Aluno estavam funcionando, procurei aprender como utilizar a classe Scanner.
+Espero não ter fugido muito do objetivo da aula.
+
+Atenciosamente,
+Erik Zarko.
