@@ -1,0 +1,3 @@
+Crie um método para verificar se uma data é maior, menor ou igual a outra data. 
+Se a data recebida for igual, seu método retorna 0. 
+Se a data recebida for maior, seu método retorna 1, e se for menor, retorna -1.
